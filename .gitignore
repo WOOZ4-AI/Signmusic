@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Audio files - personal/test material
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Large model/data files
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Generated output
+outputs/
+renders/
+generated/
+tmp/
