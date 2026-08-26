@@ -1,0 +1,303 @@
+{
+  "bpm": 120,
+  "beat_duration": 0.5,
+  "total_duration": 2.6,
+  "animations": [
+    {
+      "concept": "SAVE",
+      "start_time": 0.0,
+      "duration": 0.8,
+      "end_time": 0.8,
+      "keyframes": [
+        {
+          "frame": 0,
+          "time": 0.0,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "frame": 10,
+          "time": 0.4,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                90,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0.3,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                90,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0.3,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                45,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                45,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "frame": 20,
+          "time": 0.8,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "concept": "ME",
+      "start_time": 0.8,
+      "duration": 0.5,
+      "end_time": 1.3,
+      "status": "undefined",
+      "keyframes": []
+    },
+    {
+      "concept": "SAVE",
+      "start_time": 1.3,
+      "duration": 0.8,
+      "end_time": 2.1,
+      "keyframes": [
+        {
+          "frame": 0,
+          "time": 0.0,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "frame": 10,
+          "time": 0.4,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                90,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0.3,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                90,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0.3,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                45,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                45,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "frame": 20,
+          "time": 0.8,
+          "bones": {
+            "LeftArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightArm": {
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "position": [
+                0,
+                0,
+                0
+              ]
+            },
+            "LeftHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            },
+            "RightHand": {
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "concept": "YOU",
+      "start_time": 2.1,
+      "duration": 0.5,
+      "end_time": 2.6,
+      "status": "undefined",
+      "keyframes": []
+    }
+  ]
+}
