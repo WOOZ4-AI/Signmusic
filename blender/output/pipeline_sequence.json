@@ -1,0 +1,1414 @@
+{
+    "bpm": 120,
+    "fps": 25,
+    "beat_duration": 0.5,
+    "total_duration": 4.5,
+    "animations": [
+        {
+            "index": 0,
+            "concept": "YOU",
+            "start_time": 0.0,
+            "duration": 0.75,
+            "end_time": 0.75,
+            "status": "motion_defined",
+            "lexicon_status": "prototype",
+            "confidence": 0.5196,
+            "hand_shape": {
+                "shape": "pointing",
+                "fingers": {
+                    "thumb": {
+                        "opposition": 45
+                    },
+                    "index": {
+                        "flexion": 0
+                    },
+                    "middle": {
+                        "flexion": 85
+                    },
+                    "ring": {
+                        "flexion": 85
+                    },
+                    "pinky": {
+                        "flexion": 85
+                    }
+                },
+                "thumb": null
+            },
+            "orientation": {
+                "palm": "neutral",
+                "wrist": null,
+                "fingers": null
+            },
+            "location": {
+                "body_region": "center",
+                "side": "center",
+                "height": "center"
+            },
+            "movement": {
+                "type": "path",
+                "direction": "forward",
+                "path": "forward",
+                "repetition": 1,
+                "speed": "normal"
+            },
+            "non_manual": {
+                "markers": [],
+                "negated": false,
+                "modality": null,
+                "lexicon": {
+                    "facial_expression": null,
+                    "eyebrow_position": null,
+                    "eye_gaze": null,
+                    "head_movement": null,
+                    "mouth_pattern": null
+                }
+            },
+            "keyframes": [
+                {
+                    "time": 0.0,
+                    "phase": "start",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.375,
+                    "phase": "motion",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                12.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                5.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.75,
+                    "phase": "end",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                25.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                10.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "index": 1,
+            "concept": "NEED",
+            "start_time": 0.75,
+            "duration": 0.75,
+            "end_time": 1.5,
+            "status": "lexicon_unresolved",
+            "confidence": 0.0,
+            "hand_shape": {},
+            "orientation": {},
+            "location": {},
+            "movement": {},
+            "non_manual": [],
+            "negated": false,
+            "modality": null,
+            "keyframes": [],
+            "warnings": [
+                "No local DGS lexicon entry exists.",
+                "No movement was invented."
+            ]
+        },
+        {
+            "index": 2,
+            "concept": "YOU",
+            "start_time": 1.5,
+            "duration": 0.75,
+            "end_time": 2.25,
+            "status": "motion_defined",
+            "lexicon_status": "prototype",
+            "confidence": 0.5196,
+            "hand_shape": {
+                "shape": "pointing",
+                "fingers": {
+                    "thumb": {
+                        "opposition": 45
+                    },
+                    "index": {
+                        "flexion": 0
+                    },
+                    "middle": {
+                        "flexion": 85
+                    },
+                    "ring": {
+                        "flexion": 85
+                    },
+                    "pinky": {
+                        "flexion": 85
+                    }
+                },
+                "thumb": null
+            },
+            "orientation": {
+                "palm": "neutral",
+                "wrist": null,
+                "fingers": null
+            },
+            "location": {
+                "body_region": "center",
+                "side": "center",
+                "height": "center"
+            },
+            "movement": {
+                "type": "path",
+                "direction": "forward",
+                "path": "forward",
+                "repetition": 1,
+                "speed": "normal"
+            },
+            "non_manual": {
+                "markers": [
+                    "inability",
+                    "negative_polarity"
+                ],
+                "negated": true,
+                "modality": "inability",
+                "lexicon": {
+                    "facial_expression": null,
+                    "eyebrow_position": null,
+                    "eye_gaze": null,
+                    "head_movement": null,
+                    "mouth_pattern": null
+                }
+            },
+            "keyframes": [
+                {
+                    "time": 0.0,
+                    "phase": "start",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.375,
+                    "phase": "motion",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                12.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                5.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.75,
+                    "phase": "end",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                25.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                10.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "index": 3,
+            "concept": "FIND",
+            "start_time": 2.25,
+            "duration": 0.75,
+            "end_time": 3.0,
+            "status": "lexicon_unresolved",
+            "confidence": 0.0,
+            "hand_shape": {},
+            "orientation": {},
+            "location": {},
+            "movement": {},
+            "non_manual": [
+                "inability",
+                "negative_polarity"
+            ],
+            "negated": true,
+            "modality": "inability",
+            "keyframes": [],
+            "warnings": [
+                "No local DGS lexicon entry exists.",
+                "No movement was invented."
+            ]
+        },
+        {
+            "index": 4,
+            "concept": "YOU",
+            "start_time": 3.0,
+            "duration": 0.75,
+            "end_time": 3.75,
+            "status": "motion_defined",
+            "lexicon_status": "prototype",
+            "confidence": 0.5196,
+            "hand_shape": {
+                "shape": "pointing",
+                "fingers": {
+                    "thumb": {
+                        "opposition": 45
+                    },
+                    "index": {
+                        "flexion": 0
+                    },
+                    "middle": {
+                        "flexion": 85
+                    },
+                    "ring": {
+                        "flexion": 85
+                    },
+                    "pinky": {
+                        "flexion": 85
+                    }
+                },
+                "thumb": null
+            },
+            "orientation": {
+                "palm": "neutral",
+                "wrist": null,
+                "fingers": null
+            },
+            "location": {
+                "body_region": "center",
+                "side": "center",
+                "height": "center"
+            },
+            "movement": {
+                "type": "path",
+                "direction": "forward",
+                "path": "forward",
+                "repetition": 1,
+                "speed": "normal"
+            },
+            "non_manual": {
+                "markers": [
+                    "continuative"
+                ],
+                "negated": false,
+                "modality": null,
+                "lexicon": {
+                    "facial_expression": null,
+                    "eyebrow_position": null,
+                    "eye_gaze": null,
+                    "head_movement": null,
+                    "mouth_pattern": null
+                }
+            },
+            "keyframes": [
+                {
+                    "time": 0.0,
+                    "phase": "start",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.375,
+                    "phase": "motion",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                12.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                5.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                },
+                {
+                    "time": 0.75,
+                    "phase": "end",
+                    "bones": {
+                        "mixamorig7:RightArm": {
+                            "rotation": [
+                                25.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightForeArm": {
+                            "rotation": [
+                                10.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex1": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex2": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandIndex3": {
+                            "rotation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandMiddle3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandRing3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky1": {
+                            "rotation": [
+                                46.75000000000001,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky2": {
+                            "rotation": [
+                                25.5,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandPinky3": {
+                            "rotation": [
+                                12.75,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb1": {
+                            "rotation": [
+                                0.0,
+                                27.0,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb2": {
+                            "rotation": [
+                                0.0,
+                                11.25,
+                                0.0
+                            ]
+                        },
+                        "mixamorig7:RightHandThumb3": {
+                            "rotation": [
+                                0.0,
+                                6.75,
+                                0.0
+                            ]
+                        }
+                    }
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "index": 5,
+            "concept": "NEED",
+            "start_time": 3.75,
+            "duration": 0.75,
+            "end_time": 4.5,
+            "status": "lexicon_unresolved",
+            "confidence": 0.0,
+            "hand_shape": {},
+            "orientation": {},
+            "location": {},
+            "movement": {},
+            "non_manual": [
+                "continuative"
+            ],
+            "negated": false,
+            "modality": null,
+            "keyframes": [],
+            "warnings": [
+                "No local DGS lexicon entry exists.",
+                "No movement was invented."
+            ]
+        }
+    ],
+    "metadata": {
+        "animation_count": 6,
+        "compiled_keyframe_count": 9,
+        "animations_with_motion": 3,
+        "animations_without_motion": 3,
+        "animations_with_hand_shape": 3,
+        "finger_keyframe_count": 135,
+        "motion_compilation_complete": true,
+        "finger_motion_compilation_complete": true,
+        "timing_mode": "local_keyframe_time",
+        "physical_dgs_motion_validated": false,
+        "official_dgs_claimed": false,
+        "calibrated_rig_motion_enabled": true,
+        "validation_errors": [],
+        "source_language": "unknown",
+        "target_language": "DGS",
+        "generated_by": "scripts/compile_dgs_pipeline.py",
+        "input_lyrics": "I need you\nI cannot find you\nI still need you"
+    }
+}

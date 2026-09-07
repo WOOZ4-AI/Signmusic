@@ -1,0 +1,264 @@
+{
+    "project": "Signmusic",
+    "avatar": "Ch08_nonPBR",
+    "armature": "Armature",
+    "frame": 1,
+    "test_angle_deg": 30.0,
+    "target_bone": "mixamorig7:RightHand",
+    "baseline_hand": {
+        "x": -78.417725,
+        "y": 142.718857,
+        "z": -5.052342
+    },
+    "tests": {
+        "right_arm": {
+            "X": {
+                "axis": "X",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -70.722916,
+                    "y": 114.808685,
+                    "z": -3.299619
+                },
+                "plus_delta": {
+                    "x": 7.694809,
+                    "y": -27.910172,
+                    "z": 1.752723
+                },
+                "plus_distance": 29.004479,
+                "minus_position": {
+                    "x": -71.119492,
+                    "y": 170.773148,
+                    "z": -6.028636
+                },
+                "minus_delta": {
+                    "x": 7.298233,
+                    "y": 28.054291,
+                    "z": -0.976294
+                },
+                "minus_distance": 29.004492
+            },
+            "Y": {
+                "axis": "Y",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -78.36924,
+                    "y": 143.285156,
+                    "z": -6.691624
+                },
+                "plus_delta": {
+                    "x": 0.048485,
+                    "y": 0.566299,
+                    "z": -1.639281
+                },
+                "plus_distance": 1.735018,
+                "minus_position": {
+                    "x": -78.398712,
+                    "y": 141.409927,
+                    "z": -3.913635
+                },
+                "minus_delta": {
+                    "x": 0.019012,
+                    "y": -1.308929,
+                    "z": 1.138707
+                },
+                "minus_distance": 1.735025
+            },
+            "Z": {
+                "axis": "Z",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -70.470673,
+                    "y": 141.727707,
+                    "z": -32.914108
+                },
+                "plus_delta": {
+                    "x": 7.947052,
+                    "y": -0.99115,
+                    "z": -27.861767
+                },
+                "plus_distance": 28.989931,
+                "minus_position": {
+                    "x": -71.38308,
+                    "y": 144.544724,
+                    "z": 23.011803
+                },
+                "minus_delta": {
+                    "x": 7.034645,
+                    "y": 1.825867,
+                    "z": 28.064144
+                },
+                "minus_distance": 28.989933
+            }
+        },
+        "right_forearm": {
+            "X": {
+                "axis": "X",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -74.538368,
+                    "y": 126.433289,
+                    "z": -4.327192
+                },
+                "plus_delta": {
+                    "x": 3.879356,
+                    "y": -16.285568,
+                    "z": 0.72515
+                },
+                "plus_distance": 16.756938,
+                "minus_position": {
+                    "x": -73.632309,
+                    "y": 158.744873,
+                    "z": -6.082508
+                },
+                "minus_delta": {
+                    "x": 4.785416,
+                    "y": 16.026016,
+                    "z": -1.030165
+                },
+                "minus_distance": 16.756928
+            },
+            "Y": {
+                "axis": "Y",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -78.423576,
+                    "y": 142.328033,
+                    "z": -4.814195
+                },
+                "plus_delta": {
+                    "x": -0.005852,
+                    "y": -0.390823,
+                    "z": 0.238147
+                },
+                "plus_distance": 0.457702,
+                "minus_position": {
+                    "x": -78.40155,
+                    "y": 143.176132,
+                    "z": -5.063316
+                },
+                "minus_delta": {
+                    "x": 0.016174,
+                    "y": 0.457275,
+                    "z": -0.010974
+                },
+                "minus_distance": 0.457693
+            },
+            "Z": {
+                "axis": "Z",
+                "angle_deg": 30.0,
+                "plus_position": {
+                    "x": -74.246605,
+                    "y": 141.691772,
+                    "z": -21.2551
+                },
+                "plus_delta": {
+                    "x": 4.17112,
+                    "y": -1.027084,
+                    "z": -16.202759
+                },
+                "plus_distance": 16.762534,
+                "minus_position": {
+                    "x": -73.917465,
+                    "y": 143.444443,
+                    "z": 11.078487
+                },
+                "minus_delta": {
+                    "x": 4.500259,
+                    "y": 0.725586,
+                    "z": 16.130829
+                },
+                "minus_distance": 16.762531
+            }
+        }
+    },
+    "direction_summary": {
+        "right_arm": {
+            "X": {
+                "direction": "BACKWARD",
+                "vector": {
+                    "x": 7.694809,
+                    "y": -27.910172,
+                    "z": 1.752723
+                },
+                "distance": 29.004479
+            },
+            "Y": {
+                "direction": "DOWN",
+                "vector": {
+                    "x": 0.048485,
+                    "y": 0.566299,
+                    "z": -1.639281
+                },
+                "distance": 1.735018
+            },
+            "Z": {
+                "direction": "DOWN",
+                "vector": {
+                    "x": 7.947052,
+                    "y": -0.99115,
+                    "z": -27.861767
+                },
+                "distance": 28.989931
+            }
+        },
+        "right_forearm": {
+            "X": {
+                "direction": "BACKWARD",
+                "vector": {
+                    "x": 3.879356,
+                    "y": -16.285568,
+                    "z": 0.72515
+                },
+                "distance": 16.756938
+            },
+            "Y": {
+                "direction": "BACKWARD",
+                "vector": {
+                    "x": -0.005852,
+                    "y": -0.390823,
+                    "z": 0.238147
+                },
+                "distance": 0.457702
+            },
+            "Z": {
+                "direction": "DOWN",
+                "vector": {
+                    "x": 4.17112,
+                    "y": -1.027084,
+                    "z": -16.202759
+                },
+                "distance": 16.762534
+            }
+        }
+    },
+    "strongest_axes": {
+        "right_arm": {
+            "axis": "X",
+            "distance": 29.004479,
+            "summary": {
+                "direction": "BACKWARD",
+                "vector": {
+                    "x": 7.694809,
+                    "y": -27.910172,
+                    "z": 1.752723
+                },
+                "distance": 29.004479
+            }
+        },
+        "right_forearm": {
+            "axis": "Z",
+            "distance": 16.762534,
+            "summary": {
+                "direction": "DOWN",
+                "vector": {
+                    "x": 4.17112,
+                    "y": -1.027084,
+                    "z": -16.202759
+                },
+                "distance": 16.762534
+            }
+        }
+    },
+    "note": "Esta calibracion mide como las rotaciones locales de los huesos RightArm y RightForeArm desplazan el hueso de la mano en coordenadas mundiales. Sirve para calibrar el rig, pero no determina por si sola la gramatica ni la forma linguistica de DGS."
+}

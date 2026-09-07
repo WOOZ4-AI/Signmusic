@@ -1,28 +1,42 @@
-from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 
-db = SQLAlchemy()
+from backend.extensions import db
+
 
 class Comment(db.Model):
-    """Modelo de Comentario"""
-    __tablename__ = 'comments'
-    
+    """Modelo de Comentario."""
+
+    __tablename__ = "comments"
+
     id = db.Column(db.Integer, primary_key=True)
+
     content = db.Column(db.Text, nullable=False)
-    
-    # Relaciones
-    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)
-    song_id = db.Column(db.Integer, db.ForeignKey('songs.id'), nullable=False)
-    
-    # Timestamps
+
+    user_id = db.Column(
+        db.Integer,
+        db.ForeignKey("users.id"),
+        nullable=False
+    )
+
+    song_id = db.Column(
+        db.Integer,
+        db.ForeignKey("songs.id"),
+        nullable=False
+    )
+
     created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    updated_at = db.Column(db.DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
-    
+    updated_at = db.Column(
+        db.DateTime,
+        default=datetime.utcnow,
+        onupdate=datetime.utcnow
+    )
+
     def to_dict(self):
-        """Convertir a diccionario"""
+        """Convertir comentario a diccionario."""
         return {
-            'id': self.id,
-            'content': self.content,
-            'author': self.author.username,
-            'created_at': self.created_at.isoformat()
+            "id": self.id,
+            "content": self.content,
+            "author": self.author.username if self.author else None,
+            "created_at": self.created_at.isoformat()
+            if self.created_at else None
         }

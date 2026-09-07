@@ -1,0 +1,398 @@
+{
+    "project": "Signmusic",
+    "blend": "C:\\Users\\samur\\Documents\\Projects\\Signmusic\\blender\\output\\signmusic_pipeline_generated.blend",
+    "armature": "Armature",
+    "test_frame": 1,
+    "test_angle_deg": 30.0,
+    "hand_bone": "mixamorig7:RightHand",
+    "baseline_hand_world": {
+        "x": -78.417725,
+        "y": 142.718857,
+        "z": -5.052342
+    },
+    "tests": {
+        "right_arm": {
+            "X": {
+                "bone": "mixamorig7:RightArm",
+                "axis": "X",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": 7.694809,
+                        "y": -27.910172,
+                        "z": 1.752723
+                    },
+                    "distance": 29.004479,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD -Y"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 7.298233,
+                        "y": 28.054291,
+                        "z": -0.976294
+                    },
+                    "distance": 29.004492,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD +Y"
+                }
+            },
+            "Y": {
+                "bone": "mixamorig7:RightArm",
+                "axis": "Y",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": 0.048485,
+                        "y": 0.566299,
+                        "z": -1.639281
+                    },
+                    "distance": 1.735018,
+                    "dominant_axis": "Z",
+                    "dominant_direction": "WORLD -Z"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 0.019012,
+                        "y": -1.308929,
+                        "z": 1.138707
+                    },
+                    "distance": 1.735025,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD -Y"
+                }
+            },
+            "Z": {
+                "bone": "mixamorig7:RightArm",
+                "axis": "Z",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": 7.947052,
+                        "y": -0.99115,
+                        "z": -27.861767
+                    },
+                    "distance": 28.989931,
+                    "dominant_axis": "Z",
+                    "dominant_direction": "WORLD -Z"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 7.034645,
+                        "y": 1.825867,
+                        "z": 28.064144
+                    },
+                    "distance": 28.989933,
+                    "dominant_axis": "Z",
+                    "dominant_direction": "WORLD +Z"
+                }
+            }
+        },
+        "right_forearm": {
+            "X": {
+                "bone": "mixamorig7:RightForeArm",
+                "axis": "X",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": 3.879356,
+                        "y": -16.285568,
+                        "z": 0.72515
+                    },
+                    "distance": 16.756938,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD -Y"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 4.785416,
+                        "y": 16.026016,
+                        "z": -1.030165
+                    },
+                    "distance": 16.756928,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD +Y"
+                }
+            },
+            "Y": {
+                "bone": "mixamorig7:RightForeArm",
+                "axis": "Y",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": -0.005852,
+                        "y": -0.390823,
+                        "z": 0.238147
+                    },
+                    "distance": 0.457702,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD -Y"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 0.016174,
+                        "y": 0.457275,
+                        "z": -0.010974
+                    },
+                    "distance": 0.457693,
+                    "dominant_axis": "Y",
+                    "dominant_direction": "WORLD +Y"
+                }
+            },
+            "Z": {
+                "bone": "mixamorig7:RightForeArm",
+                "axis": "Z",
+                "angle_deg": 30.0,
+                "plus": {
+                    "delta_world": {
+                        "x": 4.17112,
+                        "y": -1.027084,
+                        "z": -16.202759
+                    },
+                    "distance": 16.762534,
+                    "dominant_axis": "Z",
+                    "dominant_direction": "WORLD -Z"
+                },
+                "minus": {
+                    "delta_world": {
+                        "x": 4.500259,
+                        "y": 0.725586,
+                        "z": 16.130829
+                    },
+                    "distance": 16.762531,
+                    "dominant_axis": "Z",
+                    "dominant_direction": "WORLD +Z"
+                }
+            }
+        }
+    },
+    "candidate_directions": [
+        {
+            "bone_group": "right_arm",
+            "axis": "X",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 7.694809,
+                "y": -27.910172,
+                "z": 1.752723
+            },
+            "distance": 29.004479
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "X",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "BACKWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 7.298233,
+                "y": 28.054291,
+                "z": -0.976294
+            },
+            "distance": 29.004492
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "Y",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "DOWN",
+            "dominant_axis": "Z",
+            "vector": {
+                "x": 0.048485,
+                "y": 0.566299,
+                "z": -1.639281
+            },
+            "distance": 1.735018
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "Y",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 0.019012,
+                "y": -1.308929,
+                "z": 1.138707
+            },
+            "distance": 1.735025
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "Z",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "DOWN",
+            "dominant_axis": "Z",
+            "vector": {
+                "x": 7.947052,
+                "y": -0.99115,
+                "z": -27.861767
+            },
+            "distance": 28.989931
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "Z",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "UP",
+            "dominant_axis": "Z",
+            "vector": {
+                "x": 7.034645,
+                "y": 1.825867,
+                "z": 28.064144
+            },
+            "distance": 28.989933
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "X",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 3.879356,
+                "y": -16.285568,
+                "z": 0.72515
+            },
+            "distance": 16.756938
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "X",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "BACKWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 4.785416,
+                "y": 16.026016,
+                "z": -1.030165
+            },
+            "distance": 16.756928
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "Y",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": -0.005852,
+                "y": -0.390823,
+                "z": 0.238147
+            },
+            "distance": 0.457702
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "Y",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "BACKWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 0.016174,
+                "y": 0.457275,
+                "z": -0.010974
+            },
+            "distance": 0.457693
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "Z",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "DOWN",
+            "dominant_axis": "Z",
+            "vector": {
+                "x": 4.17112,
+                "y": -1.027084,
+                "z": -16.202759
+            },
+            "distance": 16.762534
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "Z",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "UP",
+            "dominant_axis": "Z",
+            "vector": {
+                "x": 4.500259,
+                "y": 0.725586,
+                "z": 16.130829
+            },
+            "distance": 16.762531
+        }
+    ],
+    "forward_candidates": [
+        {
+            "bone_group": "right_arm",
+            "axis": "X",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 7.694809,
+                "y": -27.910172,
+                "z": 1.752723
+            },
+            "distance": 29.004479
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "X",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 3.879356,
+                "y": -16.285568,
+                "z": 0.72515
+            },
+            "distance": 16.756938
+        },
+        {
+            "bone_group": "right_arm",
+            "axis": "Y",
+            "rotation": "-30.0",
+            "sign": "minus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": 0.019012,
+                "y": -1.308929,
+                "z": 1.138707
+            },
+            "distance": 1.735025
+        },
+        {
+            "bone_group": "right_forearm",
+            "axis": "Y",
+            "rotation": "+30.0",
+            "sign": "plus",
+            "direction": "FORWARD",
+            "dominant_axis": "Y",
+            "vector": {
+                "x": -0.005852,
+                "y": -0.390823,
+                "z": 0.238147
+            },
+            "distance": 0.457702
+        }
+    ],
+    "note": "La direccion FORWARD se define aqui como WORLD -Y porque la camara de validacion esta situada en Y negativo. La calibracion sirve para determinar que rotacion local acerca la mano hacia la camara, no para validar por si sola la forma linguistica de un signo DGS."
+}

@@ -1,0 +1,124 @@
+{
+  "bpm": 120,
+  "fps": 25,
+  "beat_duration": 0.5,
+  "total_duration": 1.25,
+  "animations": [
+    {
+      "concept": "SAVE",
+      "start_time": 0.0,
+      "duration": 0.8,
+      "end_time": 0.8,
+      "status": "defined",
+      "confidence": 1.0,
+      "keyframes": [
+        {
+          "frame": 0,
+          "time": 0.0,
+          "bones": {
+            "LeftArm": {
+              "rotation": [0, 0, 0],
+              "position": [0, 0, 0]
+            },
+            "RightArm": {
+              "rotation": [0, 0, 0],
+              "position": [0, 0, 0]
+            },
+            "LeftHand": {
+              "rotation": [0, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [0, 0, 0]
+            }
+          }
+        },
+        {
+          "frame": 10,
+          "time": 0.4,
+          "bones": {
+            "LeftArm": {
+              "rotation": [45, 0, 0],
+              "position": [0, 0.15, 0]
+            },
+            "RightArm": {
+              "rotation": [45, 0, 0],
+              "position": [0, 0.15, 0]
+            },
+            "LeftHand": {
+              "rotation": [22.5, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [22.5, 0, 0]
+            }
+          }
+        },
+        {
+          "frame": 20,
+          "time": 0.8,
+          "bones": {
+            "LeftArm": {
+              "rotation": [0, 0, 0],
+              "position": [0, 0, 0]
+            },
+            "RightArm": {
+              "rotation": [0, 0, 0],
+              "position": [0, 0, 0]
+            },
+            "LeftHand": {
+              "rotation": [0, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [0, 0, 0]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "concept": "ME",
+      "start_time": 0.8,
+      "duration": 0.45,
+      "end_time": 1.25,
+      "status": "defined",
+      "confidence": 1.0,
+      "keyframes": [
+        {
+          "frame": 0,
+          "time": 0.0,
+          "bones": {
+            "RightArm": {
+              "rotation": [0, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [0, 0, 0]
+            }
+          }
+        },
+        {
+          "frame": 6,
+          "time": 0.24,
+          "bones": {
+            "RightArm": {
+              "rotation": [25, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [15, 0, 0]
+            }
+          }
+        },
+        {
+          "frame": 12,
+          "time": 0.45,
+          "bones": {
+            "RightArm": {
+              "rotation": [0, 0, 0]
+            },
+            "RightHand": {
+              "rotation": [0, 0, 0]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2216 @@
+{
+    "project": "Signmusic",
+    "concept": "YOU",
+    "blend_file": "C:\\Users\\samur\\Documents\\Projects\\Signmusic\\blender\\output\\signmusic_pipeline_generated.blend",
+    "armature": "Armature",
+    "fps": 25,
+    "test_frames": [
+        1,
+        10,
+        20
+    ],
+    "frames": {
+        "1": {
+            "mixamorig7:RightArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -2e-06,
+                    "z": -1e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -22.358131,
+                    "y": 143.159622,
+                    "z": -4.15995
+                },
+                "tail": {
+                    "x": -46.048729,
+                    "y": 141.796005,
+                    "z": -5.33182
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 4e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -46.048729,
+                    "y": 141.796005,
+                    "z": -5.33182
+                },
+                "tail": {
+                    "x": -69.443634,
+                    "y": 142.64328,
+                    "z": -4.516087
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 27.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -7e-06,
+                    "y": 1.3e-05,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -72.549408,
+                    "y": 141.602524,
+                    "z": -1.790872
+                },
+                "tail": {
+                    "x": -75.362541,
+                    "y": 140.746353,
+                    "z": -0.066644
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 11.25,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": -4e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -75.12307,
+                    "y": 141.014893,
+                    "z": 0.365676
+                },
+                "tail": {
+                    "x": -77.808067,
+                    "y": 139.70636,
+                    "z": 2.288288
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 6.75,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": -5e-06,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -77.846191,
+                    "y": 139.605972,
+                    "z": 2.159378
+                },
+                "tail": {
+                    "x": -80.214294,
+                    "y": 138.361191,
+                    "z": 3.927948
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": 1.3e-05,
+                    "z": 8e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.456039,
+                    "y": 142.654541,
+                    "z": -1.586426
+                },
+                "tail": {
+                    "x": -82.763779,
+                    "y": 142.746735,
+                    "z": -1.448381
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": -4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -82.764793,
+                    "y": 142.745926,
+                    "z": -1.474847
+                },
+                "tail": {
+                    "x": -85.84655,
+                    "y": 142.318787,
+                    "z": -1.330517
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -0.0,
+                    "y": 2e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -85.846207,
+                    "y": 142.319046,
+                    "z": -1.322499
+                },
+                "tail": {
+                    "x": -88.539124,
+                    "y": 141.767502,
+                    "z": -1.190916
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 1.4e-05,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.696678,
+                    "y": 143.014587,
+                    "z": -4.158627
+                },
+                "tail": {
+                    "x": -82.078819,
+                    "y": 140.417587,
+                    "z": -4.16085
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -3e-06,
+                    "y": -8e-06,
+                    "z": -4e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -82.077972,
+                    "y": 140.416946,
+                    "z": -4.183406
+                },
+                "tail": {
+                    "x": -82.516602,
+                    "y": 137.180923,
+                    "z": -4.097128
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": -2e-06,
+                    "z": 3e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -82.516891,
+                    "y": 137.181198,
+                    "z": -4.088818
+                },
+                "tail": {
+                    "x": -82.151474,
+                    "y": 134.424103,
+                    "z": -3.98929
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": 9e-06,
+                    "z": 5e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.543037,
+                    "y": 142.697433,
+                    "z": -6.233033
+                },
+                "tail": {
+                    "x": -81.456284,
+                    "y": 140.512802,
+                    "z": -6.420529
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 5e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -81.455101,
+                    "y": 140.512527,
+                    "z": -6.429218
+                },
+                "tail": {
+                    "x": -81.709747,
+                    "y": 137.82753,
+                    "z": -6.376457
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 3e-06,
+                    "z": 9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -81.711548,
+                    "y": 137.828003,
+                    "z": -6.363131
+                },
+                "tail": {
+                    "x": -81.791748,
+                    "y": 135.447006,
+                    "z": -6.296676
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 1.5e-05,
+                    "z": 6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -78.367401,
+                    "y": 142.717499,
+                    "z": -8.439695
+                },
+                "tail": {
+                    "x": -79.945206,
+                    "y": 140.444962,
+                    "z": -8.607335
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -5e-06,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.944038,
+                    "y": 140.444733,
+                    "z": -8.614874
+                },
+                "tail": {
+                    "x": -80.029961,
+                    "y": 138.217911,
+                    "z": -8.555346
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -80.031143,
+                    "y": 138.21817,
+                    "z": -8.547606
+                },
+                "tail": {
+                    "x": -79.82476,
+                    "y": 136.279007,
+                    "z": -8.452667
+                }
+            }
+        },
+        "10": {
+            "mixamorig7:RightArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -12.5
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -2e-06,
+                    "z": -1e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -22.358131,
+                    "y": 143.159622,
+                    "z": -4.15995
+                },
+                "tail": {
+                    "x": -45.75518,
+                    "y": 142.076553,
+                    "z": -0.174705
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -5.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 4e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -45.75518,
+                    "y": 142.076553,
+                    "z": -0.174705
+                },
+                "tail": {
+                    "x": -67.812485,
+                    "y": 143.346634,
+                    "z": 7.607776
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 27.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -7e-06,
+                    "y": 1.3e-05,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -69.973167,
+                    "y": 142.37886,
+                    "z": 11.150471
+                },
+                "tail": {
+                    "x": -72.152176,
+                    "y": 141.584045,
+                    "z": 13.648449
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 11.25,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": -4e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -71.790024,
+                    "y": 141.851013,
+                    "z": 13.985989
+                },
+                "tail": {
+                    "x": -73.794151,
+                    "y": 140.60289,
+                    "z": 16.639961
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 6.75,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": -5e-06,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -73.870705,
+                    "y": 140.50238,
+                    "z": 16.52957
+                },
+                "tail": {
+                    "x": -75.617813,
+                    "y": 139.311356,
+                    "z": 18.940863
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": 1.3e-05,
+                    "z": 8e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -76.483688,
+                    "y": 143.555313,
+                    "z": 13.40415
+                },
+                "tail": {
+                    "x": -79.595909,
+                    "y": 143.707443,
+                    "z": 14.526473
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": -4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.604836,
+                    "y": 143.706467,
+                    "z": 14.50154
+                },
+                "tail": {
+                    "x": -82.507484,
+                    "y": 143.335358,
+                    "z": 15.56804
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -0.0,
+                    "y": 2e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -82.504745,
+                    "y": 143.335663,
+                    "z": 15.575582
+                },
+                "tail": {
+                    "x": -85.042213,
+                    "y": 142.833145,
+                    "z": 16.514765
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 1.4e-05,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -77.479332,
+                    "y": 143.903229,
+                    "z": 11.018483
+                },
+                "tail": {
+                    "x": -79.791451,
+                    "y": 141.349213,
+                    "z": 11.760217
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -3e-06,
+                    "y": -8e-06,
+                    "z": -4e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.797417,
+                    "y": 141.348419,
+                    "z": 11.738452
+                },
+                "tail": {
+                    "x": -80.238869,
+                    "y": 138.121353,
+                    "z": 11.989227
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": -2e-06,
+                    "z": 3e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -80.236649,
+                    "y": 138.121689,
+                    "z": 11.997236
+                },
+                "tail": {
+                    "x": -79.899956,
+                    "y": 135.359192,
+                    "z": 12.01412
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": 9e-06,
+                    "z": 5e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -77.959816,
+                    "y": 143.570206,
+                    "z": 8.997203
+                },
+                "tail": {
+                    "x": -79.874023,
+                    "y": 141.418945,
+                    "z": 9.41691
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 5e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.875504,
+                    "y": 141.418594,
+                    "z": 9.40827
+                },
+                "tail": {
+                    "x": -80.143181,
+                    "y": 138.738968,
+                    "z": 9.565618
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 3e-06,
+                    "z": 9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -80.1409,
+                    "y": 138.739563,
+                    "z": 9.578865
+                },
+                "tail": {
+                    "x": -80.233482,
+                    "y": 136.360855,
+                    "z": 9.693502
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 1.5e-05,
+                    "z": 6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -77.500069,
+                    "y": 143.555252,
+                    "z": 6.539503
+                },
+                "tail": {
+                    "x": -79.089691,
+                    "y": 141.310242,
+                    "z": 6.878586
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -5e-06,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.090843,
+                    "y": 141.309937,
+                    "z": 6.871047
+                },
+                "tail": {
+                    "x": -79.188629,
+                    "y": 139.085419,
+                    "z": 6.979032
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -79.187431,
+                    "y": 139.085754,
+                    "z": 6.986766
+                },
+                "tail": {
+                    "x": -78.99144,
+                    "y": 137.14386,
+                    "z": 7.03761
+                }
+            }
+        },
+        "20": {
+            "mixamorig7:RightArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -25.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -2e-06,
+                    "z": -1e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -22.358131,
+                    "y": 143.159622,
+                    "z": -4.15995
+                },
+                "tail": {
+                    "x": -44.352425,
+                    "y": 142.408447,
+                    "z": 4.793478
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": -10.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 4e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -44.352425,
+                    "y": 142.408447,
+                    "z": 4.793478
+                },
+                "tail": {
+                    "x": -63.036606,
+                    "y": 144.160049,
+                    "z": 18.812685
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 27.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -7e-06,
+                    "y": 1.3e-05,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -64.051346,
+                    "y": 143.257843,
+                    "z": 22.851513
+                },
+                "tail": {
+                    "x": -65.393967,
+                    "y": 142.522095,
+                    "z": 25.897125
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 11.25,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": -4e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -64.942863,
+                    "y": 142.784134,
+                    "z": 26.107359
+                },
+                "tail": {
+                    "x": -66.079453,
+                    "y": 141.592773,
+                    "z": 29.254854
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 6.75,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": -5e-06,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -66.187256,
+                    "y": 141.493057,
+                    "z": 29.173704
+                },
+                "tail": {
+                    "x": -67.150513,
+                    "y": 140.352188,
+                    "z": 32.011974
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": 1.3e-05,
+                    "z": 8e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -69.565903,
+                    "y": 144.575974,
+                    "z": 26.938358
+                },
+                "tail": {
+                    "x": -72.195374,
+                    "y": 144.796204,
+                    "z": 28.939877
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": -4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -72.211372,
+                    "y": 144.795258,
+                    "z": 28.918777
+                },
+                "tail": {
+                    "x": -74.666405,
+                    "y": 144.4879,
+                    "z": 30.810562
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 0.0,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -0.0,
+                    "y": 2e-06,
+                    "z": -9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -74.661522,
+                    "y": 144.488205,
+                    "z": 30.816931
+                },
+                "tail": {
+                    "x": -76.808601,
+                    "y": 144.041504,
+                    "z": 32.479408
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 1.4e-05,
+                    "z": 1.3e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -71.225151,
+                    "y": 144.927673,
+                    "z": 24.956703
+                },
+                "tail": {
+                    "x": -73.25071,
+                    "y": 142.424225,
+                    "z": 26.388092
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -3e-06,
+                    "y": -8e-06,
+                    "z": -4e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -73.262939,
+                    "y": 142.423401,
+                    "z": 26.369125
+                },
+                "tail": {
+                    "x": -73.662636,
+                    "y": 139.207291,
+                    "z": 26.779675
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": -2e-06,
+                    "z": 3e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -73.658112,
+                    "y": 139.207626,
+                    "z": 26.786644
+                },
+                "tail": {
+                    "x": -73.377975,
+                    "y": 136.439255,
+                    "z": 26.73525
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 1e-06,
+                    "y": 9e-06,
+                    "z": 5e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -72.295128,
+                    "y": 144.590897,
+                    "z": 23.176516
+                },
+                "tail": {
+                    "x": -74.030991,
+                    "y": 142.480225,
+                    "z": 24.176584
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 5e-06,
+                    "z": 1.6e-05
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -74.035004,
+                    "y": 142.479858,
+                    "z": 24.168791
+                },
+                "tail": {
+                    "x": -74.287834,
+                    "y": 139.807053,
+                    "z": 24.431517
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 3e-06,
+                    "z": 9e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -74.281677,
+                    "y": 139.807693,
+                    "z": 24.443464
+                },
+                "tail": {
+                    "x": -74.375282,
+                    "y": 137.432037,
+                    "z": 24.609333
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 46.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 2e-06,
+                    "y": 1.5e-05,
+                    "z": 6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -72.593826,
+                    "y": 144.550903,
+                    "z": 20.694365
+                },
+                "tail": {
+                    "x": -74.04583,
+                    "y": 142.339645,
+                    "z": 21.521379
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 25.5,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -1e-06,
+                    "y": -5e-06,
+                    "z": 7e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -74.049194,
+                    "y": 142.33931,
+                    "z": 21.514536
+                },
+                "tail": {
+                    "x": -74.147186,
+                    "y": 140.117889,
+                    "z": 21.673752
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_mode": "XYZ",
+                "rotation_euler_deg": {
+                    "x_deg": 12.75,
+                    "y_deg": 0.0,
+                    "z_deg": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": -2e-06,
+                    "y": 4e-06,
+                    "z": -6e-06
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "head": {
+                    "x": -74.143723,
+                    "y": 140.11824,
+                    "z": 21.680769
+                },
+                "tail": {
+                    "x": -73.973915,
+                    "y": 138.173264,
+                    "z": 21.694016
+                }
+            }
+        }
+    },
+    "deltas": {
+        "1_to_10": {
+            "mixamorig7:RightArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -5.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            }
+        },
+        "10_to_20": {
+            "mixamorig7:RightArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -5.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            }
+        },
+        "1_to_20": {
+            "mixamorig7:RightArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -25.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightForeArm": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -10.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandThumb3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandIndex3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandMiddle3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandRing3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky1": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky2": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "mixamorig7:RightHandPinky3": {
+                "rotation_euler_deg": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation_quaternion": null,
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            }
+        }
+    },
+    "actions": [
+        "SignMusic_Pipeline_Generated",
+        "Armature|mixamo.com|Layer0"
+    ],
+    "diagnostics": {
+        "right_arm_delta": {
+            "rotation_euler_deg": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -25.0
+            },
+            "rotation_quaternion": null,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "right_forearm_delta": {
+            "rotation_euler_deg": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -10.0
+            },
+            "rotation_quaternion": null,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "index_finger_delta": {
+            "rotation_euler_deg": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation_quaternion": null,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "note": "Estos datos muestran las transformaciones reales de Blender entre el inicio y el final del gesto YOU. No constituyen una validacion linguistica oficial de DGS."
+    }
+}

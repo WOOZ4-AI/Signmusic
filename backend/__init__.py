@@ -1,0 +1,1 @@
+hand_location_compiler: HandLocationCompiler | None = None,

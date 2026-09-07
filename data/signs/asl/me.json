@@ -1,0 +1,41 @@
+{
+    "concept": "ME",
+    "language": "ASL",
+    "status": "prototype",
+    "dominant_hand": "right",
+    "duration": 0.45,
+    "confidence": 0.5,
+    "hand_shape": {
+        "shape": null,
+        "fingers": {},
+        "thumb": null
+    },
+    "orientation": {
+        "palm": null,
+        "wrist": null,
+        "fingers": null
+    },
+    "location": {
+        "body_region": null,
+        "side": null,
+        "height": null
+    },
+    "movement": {
+        "type": null,
+        "direction": null,
+        "path": null,
+        "repetition": 1,
+        "speed": null
+    },
+    "non_manual": {
+        "facial_expression": null,
+        "eyebrow_position": null,
+        "eye_gaze": null,
+        "head_movement": null,
+        "mouth_pattern": null
+    },
+    "variants": [],
+    "notes": "Prototipo estructural. Requiere datos lingüísticos verificados.",
+    "source": null,
+    "metadata": {}
+}

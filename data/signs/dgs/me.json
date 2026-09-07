@@ -1,0 +1,59 @@
+{
+    "concept": "ME",
+    "language": "DGS",
+    "status": "prototype",
+    "dominant_hand": "right",
+    "duration": 0.5,
+    "confidence": 0.3,
+    "hand_shape": {
+        "shape": "pointing",
+        "fingers": {
+            "thumb": {
+                "opposition": 45
+            },
+            "index": {
+                "flexion": 0
+            },
+            "middle": {
+                "flexion": 85
+            },
+            "ring": {
+                "flexion": 85
+            },
+            "pinky": {
+                "flexion": 85
+            }
+        },
+        "thumb": null
+    },
+    "orientation": {
+        "palm": "neutral",
+        "wrist": null,
+        "fingers": null
+    },
+    "location": {
+        "body_region": "chest",
+        "side": "center",
+        "height": "center"
+    },
+    "movement": {
+        "type": "path",
+        "direction": "center_to_upper",
+        "path": "center_to_upper",
+        "repetition": 1,
+        "speed": "normal"
+    },
+    "non_manual": {
+        "facial_expression": null,
+        "eyebrow_position": null,
+        "eye_gaze": null,
+        "head_movement": null,
+        "mouth_pattern": null
+    },
+    "variants": [],
+    "notes": "Prototipo experimental de desarrollo. No representa una descripción lingüística DGS validada.",
+    "source": null,
+    "metadata": {
+        "development_status": "experimental"
+    }
+}
