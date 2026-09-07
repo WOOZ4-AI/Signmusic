@@ -65,3 +65,5 @@ outputs/
 renders/
 generated/
 tmp/
+blender/output/finger_axis_Y.blend
+blender/output/finger_axis_Z.blend
